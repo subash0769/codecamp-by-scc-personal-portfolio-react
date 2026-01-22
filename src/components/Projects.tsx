@@ -8,8 +8,8 @@ const Projects = ({ projects }: ProjectsProps) => {
   return (
     <section className="section" id="projects">
       <div className="section-header">
-        <h2>Projects</h2>
-        <p>Showcase your builds in a clean grid.</p>
+        <h2>Projects Yeta Xa</h2>
+        <p>Showcase your builds in a not very clean grid.</p>
       </div>
       <div className="projects-grid">
         {projects.map((project) => (
